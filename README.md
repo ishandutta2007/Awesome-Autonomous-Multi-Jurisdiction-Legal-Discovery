@@ -64,91 +64,91 @@ Below is the comparative breakdown of industry-leading enterprise SaaS platforms
 
 Open-source and self-hosted tools provide total **data sovereignty**, **air-gapped processing**, and zero vendor lock-in—indispensable for cross-border matters subject to strict data residency requirements, GDPR blocking statutes, and criminal evidentiary chains of custody.
 
-Below are the top open-source projects for legal discovery, document intelligence, and digital forensics, **ranked strictly in descending order of GitHub star counts**.
+Below are the top open-source projects for legal discovery, document intelligence, and digital forensics, **ranked strictly in descending order of GitHub Stars_Counts**.
 
 ### 🌟 Ranked Open-Source Solutions
 
-1. **[Autopsy (sleuthkit/autopsy)](https://github.com/sleuthkit/autopsy)** [![GitHub stars](https://img.shields.io/github/stars/sleuthkit/autopsy?style=social&color=white)](https://github.com/sleuthkit/autopsy/stargazers)
+1. **[Autopsy (sleuthkit/autopsy)](https://github.com/sleuthkit/autopsy)** [![GitHub_Stars](https://img.shields.io/github/stars/sleuthkit/autopsy?style=social&color=white)](https://github.com/sleuthkit/autopsy/stargazers)
    * **License:** Apache-2.0 / GPLv2
    * **Primary Focus:** Digital Forensics, ESI Ingestion & File Evidence Analysis
    * **Description:** Autopsy is the premier open-source digital forensics platform and graphical interface to The Sleuth Kit. Extensively deployed by law enforcement, military examiners, and corporate eDiscovery investigators worldwide to reconstruct hard drives, recover deleted communication files, extract EXIF metadata, parse email archives, and maintain forensically sound evidence chains.
 
-2. **[Aleph (alephdata/aleph)](https://github.com/alephdata/aleph)** [![GitHub stars](https://img.shields.io/github/stars/alephdata/aleph?style=social&color=white)](https://github.com/alephdata/aleph/stargazers)
+2. **[Aleph (alephdata/aleph)](https://github.com/alephdata/aleph)** [![GitHub_Stars](https://img.shields.io/github/stars/alephdata/aleph?style=social&color=white)](https://github.com/alephdata/aleph/stargazers)
    * **License:** MIT
    * **Primary Focus:** Investigative Search, Cross-Border Leaks & Entity Extraction
    * **Description:** Flagship platform created by the Organized Crime and Corruption Reporting Project (OCCRP). Designed specifically to bulk-index terabytes of multinational public records, leaked documents, and unstructured email caches. Features automated multilingual OCR, cross-dataset entity matching, network graph analysis, and secure collaborative review for cross-border investigations (utilized in the Panama Papers and Suisse Secrets).
 
-3. **[OpenContracts (Open-Source-Legal/OpenContracts)](https://github.com/Open-Source-Legal/OpenContracts)** [![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers)
+3. **[OpenContracts (Open-Source-Legal/OpenContracts)](https://github.com/Open-Source-Legal/OpenContracts)** [![GitHub_Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers)
    * **License:** MIT
    * **Primary Focus:** Legal Document Intelligence, Contract Discovery & Agentic Vector Graphs
    * **Description:** An open-source document intelligence platform and DMS engineered for legal tech builders and autonomous AI agents. Converts complex legal document corpora (PDFs, DOCX) into structured, citation-grounded vector knowledge graphs that human attorneys and LLM agents can query, cross-examine, annotate, and reason over with pinpoint coordinate accuracy.
 
-4. **[Datashare (ICIJ/datashare)](https://github.com/ICIJ/datashare)** [![GitHub stars](https://img.shields.io/github/stars/ICIJ/datashare?style=social&color=white)](https://github.com/ICIJ/datashare/stargazers)
+4. **[Datashare (ICIJ/datashare)](https://github.com/ICIJ/datashare)** [![GitHub_Stars](https://img.shields.io/github/stars/ICIJ/datashare?style=social&color=white)](https://github.com/ICIJ/datashare/stargazers)
    * **License:** GPL-3.0
    * **Primary Focus:** Sovereign Document Search Engine & Investigative Review
    * **Description:** Developed by the International Consortium of Investigative Journalists (ICIJ). Datashare is a sovereign, self-hosted search engine tailored for investigative document collections. Provides local or centralized document indexing, batch Tesseract OCR, automated named entity recognition (people, companies, locations), and conversational email threading across massive document dumps.
 
-5. **[Overview Server (overview/overview-server)](https://github.com/overview/overview-server)** [![GitHub stars](https://img.shields.io/github/stars/overview/overview-server?style=social&color=white)](https://github.com/overview/overview-server/stargazers)
+5. **[Overview Server (overview/overview-server)](https://github.com/overview/overview-server)** [![GitHub_Stars](https://img.shields.io/github/stars/overview/overview-server?style=social&color=white)](https://github.com/overview/overview-server/stargazers)
    * **License:** Apache-2.0
    * **Primary Focus:** Unstructured Document Mining & Semantic Clustering
    * **Description:** Bulk document exploration and visualization system. Automatically clusters hundreds of thousands of unstructured documents by topic, extracts named entities, and generates hierarchical interactive tree maps. Originally built for investigative journalists, now widely leveraged in legal early case assessment (ECA) and regulatory response.
 
-6. **[Extract (ICIJ/extract)](https://github.com/ICIJ/extract)** [![GitHub stars](https://img.shields.io/github/stars/ICIJ/extract?style=social&color=white)](https://github.com/ICIJ/extract/stargazers)
+6. **[Extract (ICIJ/extract)](https://github.com/ICIJ/extract)** [![GitHub_Stars](https://img.shields.io/github/stars/ICIJ/extract?style=social&color=white)](https://github.com/ICIJ/extract/stargazers)
    * **License:** Apache-2.0
    * **Primary Focus:** High-Throughput Parallel Text & Metadata Extraction CLI
    * **Description:** A cross-platform command-line utility built by the ICIJ for parallelized content extraction, metadata harvesting, and full-text translation pipelines. Operates as an ultra-fast ingestion step for large-scale multi-jurisdiction document dumps before indexing.
 
-7. **[FreeEed (shmsoft/FreeEed)](https://github.com/shmsoft/FreeEed)** [![GitHub stars](https://img.shields.io/github/stars/shmsoft/FreeEed?style=social&color=white)](https://github.com/shmsoft/FreeEed/stargazers)
+7. **[FreeEed (shmsoft/FreeEed)](https://github.com/shmsoft/FreeEed)** [![GitHub_Stars](https://img.shields.io/github/stars/shmsoft/FreeEed?style=social&color=white)](https://github.com/shmsoft/FreeEed/stargazers)
    * **License:** Apache-2.0
    * **Primary Focus:** Complete Self-Hosted eDiscovery Engine & AI Document Chat
    * **Description:** The most mature dedicated open-source eDiscovery application. Built on Hadoop, Apache Tika, Lucene, and Solr, FreeEed scales from single-machine workloads to multi-terabyte enterprise clusters. Supports 1,400+ file formats (including PST, OST, MBOX, and Office), automated OCR, AI document chat, deduplication, Bates stamping, and Concordance/DAT production set generation.
 
-8. **[FreeDiscovery (FreeDiscovery/FreeDiscovery)](https://github.com/FreeDiscovery/FreeDiscovery)** [![GitHub stars](https://img.shields.io/github/stars/FreeDiscovery/FreeDiscovery?style=social&color=white)](https://github.com/FreeDiscovery/FreeDiscovery/stargazers)
+8. **[FreeDiscovery (FreeDiscovery/FreeDiscovery)](https://github.com/FreeDiscovery/FreeDiscovery)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeDiscovery/FreeDiscovery?style=social&color=white)](https://github.com/FreeDiscovery/FreeDiscovery/stargazers)
    * **License:** BSD-3-Clause
    * **Primary Focus:** RESTful Machine Learning API for eDiscovery Analytics
    * **Description:** High-performance web service providing machine learning capabilities for eDiscovery workflows. Exposes endpoints for predictive coding (Technology Assisted Review / TAR), email threading, near-duplicate document clustering, and semantic categorization powered by scikit-learn.
 
-9. **[Newsleak (uhh-lt/newsleak)](https://github.com/uhh-lt/newsleak)** [![GitHub stars](https://img.shields.io/github/stars/uhh-lt/newsleak?style=social&color=white)](https://github.com/uhh-lt/newsleak/stargazers)
+9. **[Newsleak (uhh-lt/newsleak)](https://github.com/uhh-lt/newsleak)** [![GitHub_Stars](https://img.shields.io/github/stars/uhh-lt/newsleak?style=social&color=white)](https://github.com/uhh-lt/newsleak/stargazers)
    * **License:** Apache-2.0
    * **Primary Focus:** Interactive Information Extraction & Investigative Network Discovery
    * **Description:** Investigative software platform engineered for automated information extraction and visual graph analysis of heterogeneous textual datasets in eDiscovery and data leak scenarios. Features entity co-occurrence graphs and timeline tracking.
 
-10. **[OpenDiscoverPlatform Case Study (dotfurther/OpenDiscoverPlatformCaseStudy)](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy)** [![GitHub stars](https://img.shields.io/github/stars/dotfurther/OpenDiscoverPlatformCaseStudy?style=social&color=white)](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy/stargazers)
+10. **[OpenDiscoverPlatform Case Study (dotfurther/OpenDiscoverPlatformCaseStudy)](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy)** [![GitHub_Stars](https://img.shields.io/github/stars/dotfurther/OpenDiscoverPlatformCaseStudy?style=social&color=white)](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy/stargazers)
     * **License:** MIT
     * **Primary Focus:** Information Governance & RavenDB Search Demonstrator
     * **Description:** Case study and architectural implementation demonstrating the dotfurther Open Discover Platform coupled with a RavenDB document store to deliver rapid full-text search, regulatory discovery, and information governance compliance.
 
-11. **[loadfile (gojefferson/loadfile)](https://github.com/gojefferson/loadfile)** [![GitHub stars](https://img.shields.io/github/stars/gojefferson/loadfile?style=social&color=white)](https://github.com/gojefferson/loadfile/stargazers)
+11. **[loadfile (gojefferson/loadfile)](https://github.com/gojefferson/loadfile)** [![GitHub_Stars](https://img.shields.io/github/stars/gojefferson/loadfile?style=social&color=white)](https://github.com/gojefferson/loadfile/stargazers)
     * **License:** MIT
     * **Primary Focus:** Legal Load File Conversion (.DAT / Opticon to CSV/JSON)
     * **Description:** Ultra-fast Go CLI utility designed to parse, validate, and convert standard litigation .DAT, Concordance, and Opticon load files into standard CSV and JSON data structures, facilitating smooth ingestion into modern cloud databases and vector stores.
 
-12. **[Sequence (reductech/Sequence)](https://github.com/reductech/Sequence)** [![GitHub stars](https://img.shields.io/github/stars/reductech/Sequence?style=social&color=white)](https://github.com/reductech/Sequence/stargazers)
+12. **[Sequence (reductech/Sequence)](https://github.com/reductech/Sequence)** [![GitHub_Stars](https://img.shields.io/github/stars/reductech/Sequence?style=social&color=white)](https://github.com/reductech/Sequence/stargazers)
     * **License:** MIT
     * **Primary Focus:** Legal Workflow Automation & eDiscovery Connector Orchestration
     * **Description:** Workflow automation platform built specifically for legal operations and discovery pipelines. Offers pre-built integrations for Relativity, Nuix, Tesseract OCR, and structured SQL/NoSQL databases to orchestrate automated ingestion and review alerts.
 
-13. **[enigma (McFlip/enigma)](https://github.com/McFlip/enigma)** [![GitHub stars](https://img.shields.io/github/stars/McFlip/enigma?style=social&color=white)](https://github.com/McFlip/enigma/stargazers)
+13. **[enigma (McFlip/enigma)](https://github.com/McFlip/enigma)** [![GitHub_Stars](https://img.shields.io/github/stars/McFlip/enigma?style=social&color=white)](https://github.com/McFlip/enigma/stargazers)
     * **License:** MIT
     * **Primary Focus:** Batch PST Decryption & Ingestion Utility
     * **Description:** Lightweight, high-throughput utility written in Go for automated bulk decryption, credential bypassing, and batch extraction of Microsoft Outlook PST email archives during evidentiary culling.
 
-14. **[rex (rexlit) (bginsber/rex)](https://github.com/bginsber/rex)** [![GitHub stars](https://img.shields.io/github/stars/bginsber/rex?style=social&color=white)](https://github.com/bginsber/rex/stargazers)
+14. **[rex (rexlit) (bginsber/rex)](https://github.com/bginsber/rex)** [![GitHub_Stars](https://img.shields.io/github/stars/bginsber/rex?style=social&color=white)](https://github.com/bginsber/rex/stargazers)
     * **License:** MIT
     * **Primary Focus:** Offline-First UNIX Litigation CLI & AI Privilege Detection
     * **Description:** Offline-first command-line toolkit for litigation management and eDiscovery. Features metadata extraction, full-text indexing, Bates stamping, DAT production exports, deadline calendar calculation, and automated attorney-client privilege classification powered by Groq LLM inferences.
 
-15. **[Open Archiver (nimdassdev/OpenArchiver)](https://github.com/nimdassdev/OpenArchiver)** [![GitHub stars](https://img.shields.io/github/stars/nimdassdev/OpenArchiver?style=social&color=white)](https://github.com/nimdassdev/OpenArchiver/stargazers)
+15. **[Open Archiver (nimdassdev/OpenArchiver)](https://github.com/nimdassdev/OpenArchiver)** [![GitHub_Stars](https://img.shields.io/github/stars/nimdassdev/OpenArchiver?style=social&color=white)](https://github.com/nimdassdev/OpenArchiver/stargazers)
     * **License:** MIT
     * **Primary Focus:** Sovereign Email Archiving & Tamper-Evident Search
     * **Description:** Sovereign email archiving and compliance search platform. Ingests communications from Microsoft 365, Google Workspace, PST, and mbox sources. Features Meilisearch full-text search, conversation threading, deduplication, and cryptographic SHA-256 evidence hashing for strict legal admissibility.
 
-16. **[ps-bates-enumerator (andre-abadi/ps-bates-enumerator)](https://github.com/andre-abadi/ps-bates-enumerator)** [![GitHub stars](https://img.shields.io/github/stars/andre-abadi/ps-bates-enumerator?style=social&color=white)](https://github.com/andre-abadi/ps-bates-enumerator/stargazers)
+16. **[ps-bates-enumerator (andre-abadi/ps-bates-enumerator)](https://github.com/andre-abadi/ps-bates-enumerator)** [![GitHub_Stars](https://img.shields.io/github/stars/andre-abadi/ps-bates-enumerator?style=social&color=white)](https://github.com/andre-abadi/ps-bates-enumerator/stargazers)
     * **License:** MIT
     * **Primary Focus:** PowerShell Document Bates Numbering
     * **Description:** Automated PowerShell script for sequentially renaming and stamping evidentiary document batches with standardized alphanumeric Bates numbers prior to court production.
 
-17. **[ps-folderizer (andre-abadi/ps-folderizer)](https://github.com/andre-abadi/ps-folderizer)** [![GitHub stars](https://img.shields.io/github/stars/andre-abadi/ps-folderizer?style=social&color=white)](https://github.com/andre-abadi/ps-folderizer/stargazers)
+17. **[ps-folderizer (andre-abadi/ps-folderizer)](https://github.com/andre-abadi/ps-folderizer)** [![GitHub_Stars](https://img.shields.io/github/stars/andre-abadi/ps-folderizer?style=social&color=white)](https://github.com/andre-abadi/ps-folderizer/stargazers)
     * **License:** MIT
     * **Primary Focus:** Ringtail & Nuix Folder Importer
     * **Description:** PowerShell directory structure re-organizer tailored to structure deep folder hierarchies into standardized volume sets for direct import into Nuix Discover and Ringtail eDiscovery databases.
@@ -205,9 +205,9 @@ We welcome contributions from legal technologists, litigation support profession
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a feature branch:** `git checkout -b feature/new-discovery-tool`
 3. 📝 **Add your tool:** Follow the existing tabular or bullet format. Ensure SaaS entries include verified pricing and free tier/pilot terms.
-4. 🌟 **Star badges:** For open-source repos, include the social star badge linking to the stargazers page:
+4. 🌟 **Stars_Badges:** For open-source repos, include the social Stars_Badge linking to the stargazers page:
    ```markdown
-   [![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)
+   [![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)
    ```
 5. 🚀 **Submit a Pull Request** with a concise explanation of the platform's multi-jurisdictional or autonomous discovery capabilities.
 
