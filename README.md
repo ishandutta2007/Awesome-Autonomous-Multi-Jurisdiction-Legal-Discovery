@@ -4,15 +4,17 @@
 
 # ⚖️ Awesome Autonomous Multi-Jurisdiction Legal Discovery 🤖
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Autonomous-Multi-Jurisdiction-Legal-Discovery/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Autonomous-Multi-Jurisdiction-Legal-Discovery/graphs/commit-activity)
 [![Topics: eDiscovery](https://img.shields.io/badge/eDiscovery-LegalTech-blueviolet.svg)](#-saas-enterprise-platforms)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **The definitive curated directory of SaaS intelligence platforms and open-source software for cross-border electronic discovery (eDiscovery), agentic fact investigation, sovereign document archiving, and multilingual litigation support.**
 
-[🌐 Sector Dynamics](#-sector-overview--market-dynamics) • [💼 SaaS Platforms](#-saas-enterprise-platforms) • [💻 Open-Source Projects](#-open-source-github-projects) • [🛡️ Compliance Architecture](#-cross-border--multi-jurisdiction-compliance-frameworks) • [🤝 Contributing](#-how-to-contribute)
+[🌐 Sector Dynamics](#-sector-overview--market-dynamics) • [💼 SaaS Platforms](#-saas-enterprise-platforms) • [💻 Open-Source Projects](#-open-source-github-projects) • [🛡️ Compliance Architecture](#-cross-border--multi-jurisdiction-compliance-frameworks) • [🤝 Contributing](#-how-to-contribute) • [💖 Support](#-support--sponsorship) • [📈 Star History](#--star-history)
 
 </div>
 
@@ -208,6 +210,36 @@ We welcome contributions from legal technologists, litigation support profession
    [![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)
    ```
 5. 🚀 **Submit a Pull Request** with a concise explanation of the platform's multi-jurisdictional or autonomous discovery capabilities.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing **Awesome Autonomous Multi-Jurisdiction Legal Discovery**! ⚖️🤖
+
+If you find this curated legal tech directory and cross-border discovery research helpful:
+- ⭐ **Star this repository** to boost visibility across the legal tech and open-source communities!
+- 🍴 **Fork the project** to benchmark or integrate into your organization's litigation pipelines!
+- 📢 **Share it** with your network on LinkedIn, Twitter/X, and litigation support forums!
+- ☕ **Support continuous maintenance:** Consider sponsoring or buying a coffee via the official [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+</div>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Autonomous-Multi-Jurisdiction-Legal-Discovery&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Autonomous-Multi-Jurisdiction-Legal-Discovery&type=date&legend=top-left)
 
 ---
 
